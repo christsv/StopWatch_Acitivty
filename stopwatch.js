@@ -25,7 +25,7 @@ function reset() {
   $("#display").text("00:00");
   //$("#display").text("00:00");
   //this one removes the laps appends
-  $("#lap").text("");
+  $("#laps").text("");
 }
 
 function start() {
